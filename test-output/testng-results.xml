@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8212" started-at="2024-12-27T06:21:51Z" finished-at="2024-12-27T06:21:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8212" started-at="2024-12-27T06:21:51Z" finished-at="2024-12-27T06:21:59Z">
+      <class name="org.testNggg.LoginWithPropertyFile">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.testNggg.LoginWithPropertyFile@f6c48ac]" name="launch" is-config="true" duration-ms="6782" started-at="2024-12-27T06:21:51Z" finished-at="2024-12-27T06:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:org.testNggg.LoginWithPropertyFile@f6c48ac]" name="login" duration-ms="471" started-at="2024-12-27T06:21:57Z" finished-at="2024-12-27T06:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:org.testNggg.LoginWithPropertyFile@f6c48ac]" name="quit" is-config="true" duration-ms="920" started-at="2024-12-27T06:21:58Z" finished-at="2024-12-27T06:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- org.testNggg.LoginWithPropertyFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
