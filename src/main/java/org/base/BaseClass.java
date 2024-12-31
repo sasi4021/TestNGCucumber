@@ -85,7 +85,14 @@ public class BaseClass {
 	}
 	
 	
-	
+	public void test()
+	{
+		System.out.println("TEST");
+		System.out.println("TEST");
+		System.out.println("TEST");
+		System.out.println("TEST");
+		System.out.println("TEST");
+	}
 	
 
 }
